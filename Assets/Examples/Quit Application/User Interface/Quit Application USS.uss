@@ -1,0 +1,20 @@
+#QuitApplicationButton {
+    width: auto;
+    align-self: center;
+    top: 48px;
+    max-width: 50%;
+    min-width: 144px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+#QuitApplicationLabel {
+    align-self: center;
+    top: 24px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
