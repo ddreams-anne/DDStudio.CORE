@@ -28,7 +28,7 @@ namespace DDStudio.CORE
 
         private void OnQuitApplicationButtonClicked()
         {
-            print("You clicked on the Quit Application button, and therefor the application will now quit, duh!");
+            print("You clicked on the Quit Application button, and therefor the application will quit now, duh!");
 
             ApplicationHandler.QuitApplication();
         }
